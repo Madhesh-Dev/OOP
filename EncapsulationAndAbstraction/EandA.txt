@@ -1,0 +1,14 @@
+Encapsulation means wrapping up the implementation of data members and the methods inside a class.
+
+Encapsulation - hiding data for the purpose of protection.
+
+Abstraction means hiding unnecessary details and showing valuable information.
+
+Abstract Data Type(ADT) is a data type, where only behavior is defined but not implementation.
+
+Encapsulation aims at hiding data while abstraction aims at hiding the implementation detail.
+
+Abstraction aims at hiding the complexity.
+
+Abstraction is solving a design value and Encapsulation is an implementation level issue.
+
